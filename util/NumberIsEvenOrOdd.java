@@ -10,5 +10,6 @@ class NumberIsEvenOrOdd{
        } else{
            System.out.println("Odd number " + x);
        }
+       sc.close();
     }
 }
